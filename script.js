@@ -1,2 +1,2 @@
 // JavaScript source code
-console.log('Hello Three.js')
+console.log(THREE)
